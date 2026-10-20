@@ -6,9 +6,9 @@ I spent 3.5 years building iOS apps at Haulmont: about 40 branded taxi apps from
 
 ### What I'm working on
 
-- **[todo](https://github.com/slemeshaev/todo)** — REST API for task management that I'm taking to production quality: JWT auth, PostgreSQL, migrations, graceful shutdown
-- **[shortener](https://github.com/slemeshaev/shortener)** — URL shortener built in public, with a blog post for every step
-- **[lessgo.ru](https://lessgo.ru)** — my blog about Go: short, practical articles with working code
+- **[todo](https://github.com/slemeshaev/todo)** - REST API for task management that I'm taking to production quality: JWT auth, PostgreSQL, migrations, graceful shutdown
+- **[shortener](https://github.com/slemeshaev/shortener)** - URL shortener built in public, with a blog post for every step
+- **[lessgo.ru](https://lessgo.ru)** - my blog about Go: short, practical articles with working code
 
 ### Projects
 
