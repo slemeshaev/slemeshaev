@@ -29,8 +29,27 @@ I spent 3.5 years building iOS apps at Haulmont: about 40 branded taxi apps from
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://lessgo.ru/feed/"
+          max_post_count: 5
 <!-- BLOG-POST-LIST:END -->
 
 ### Contacts
 
-[Blog](https://lessgo.ru) · [Telegram](https://t.me/lssgo) · [VK](https://vk.com/lssgo)
+[Blog](https://lessgo.ru){:target="_blank"} · [Telegram](https://t.me/lssgo){:target="_blank"} · [VK](https://vk.com/lssgo){:target="_blank"}
