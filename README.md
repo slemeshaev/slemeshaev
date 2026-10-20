@@ -2,7 +2,7 @@
 
 Backend developer in Go from Voronezh.
 
-I spent 3.5 years building iOS apps at Haulmont: about 40 branded taxi apps from one codebase, code review on every task, releases through TeamCity. Then I moved into system administration and now support 1C and Frontol POS systems in retail. That's where I learned how software actually lives in production: what breaks, how to find the cause and what users feel when the system is down. Now I write Go and bring that experience into backend work.
+I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebase, code review on every task, releases through TeamCity. Then I moved into system administration and now support 1C and Frontol POS systems in retail. That's where I learned how software actually lives in production: what breaks, how to find the cause and what users feel when the system is down. Now I write Go and bring that experience into backend work.
 
 ### What I'm working on
 
