@@ -37,4 +37,4 @@ I spent 3.5 years building iOS apps at Haulmont: about 40 branded taxi apps from
 <!-- BLOG-POST-LIST:END -->
 
 ### Contacts
-<a href="https://lessgo.ru" target="_blank" rel="noopener noreferrer">Blog</a> · <a href="https://t.me/lssgo" target="_blank" rel="noopener noreferrer">Telegram</a> · <a href="https://vk.com/lssgo" target="_blank" rel="noopener noreferrer">VK</a>
+<a href="https://lessgo.ru" target="_blank" rel="noopener noreferrer">Blog</a> · <a href="https://t.me/lssgo" target="_blank" rel="noopener noreferrer">Telegram</a> · <a href="https://vk.com/lssgo" target="_blank" rel="noopener noreferrer">VK</a> · <a href="https://set.ki/a6DBfpg" target="_blank" rel="noopener noreferrer">Setka</a> · <a href="https://max.ru/channel_lssgo" target="_blank" rel="noopener noreferrer">Max</a>
