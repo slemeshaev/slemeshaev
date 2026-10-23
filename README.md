@@ -10,14 +10,6 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 - **[shortener](https://github.com/slemeshaev/shortener)** - URL shortener built in public, with a blog post for every step
 - **[lessgo.ru](https://lessgo.ru)** - my blog about Go: short, practical articles with working code
 
-### Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [todo](https://github.com/slemeshaev/todo) | REST API with JWT authentication | Go, Gin, PostgreSQL, sqlx, Swagger |
-| [shortener](https://github.com/slemeshaev/shortener) | URL shortener, developed step by step in public | Go, net/http |
-| [gopldk](https://github.com/slemeshaev/gopldk) | Solutions to exercises from *The Go Programming Language* | Go |
-
 ### Tech
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -26,7 +18,7 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Latest posts
+### Latest posts (in Russian)
 
 <!-- BLOG-POST-LIST:START -->
 - [Типы данных в Go: полный обзор от int до rune](https://lessgo.ru/golang-go/tipy-dannyh-v-go-polnyj-obzor-ot-int-do-rune.html)
@@ -35,6 +27,3 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 - [Отзыв на книгу «Грокаем алгоритмы» — Адитьи Бхаргавы](https://lessgo.ru/obuchenie/otzyv-na-knigu-grokaem-algoritmy-aditi-bhargavy.html)
 - [Two Sum на Go: находим индексы двух чисел с заданной суммой](https://lessgo.ru/leetcode/two-sum-na-go-nahodim-indeksy-dvuh-chisel-s-zadannoj-summoj.html)
 <!-- BLOG-POST-LIST:END -->
-
-### Contacts
-<a href="https://lessgo.ru" target="_blank" rel="noopener noreferrer">Blog</a> · <a href="https://t.me/lssgo" target="_blank" rel="noopener noreferrer">Telegram</a> · <a href="https://vk.com/lssgo" target="_blank" rel="noopener noreferrer">VK</a> · <a href="https://set.ki/a6DBfpg" target="_blank" rel="noopener noreferrer">Setka</a> · <a href="https://max.ru/channel_lssgo" target="_blank" rel="noopener noreferrer">Max</a>
