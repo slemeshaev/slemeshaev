@@ -10,14 +10,6 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 - **[shortener](https://github.com/slemeshaev/shortener)** - URL shortener built in public, with a blog post for every step
 - **[lessgo.ru](https://lessgo.ru)** - my blog about Go: short, practical articles with working code
 
-### Tech
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ### Latest posts (in Russian)
 
 <!-- BLOG-POST-LIST:START -->
@@ -27,3 +19,11 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 - [Отзыв на книгу «Грокаем алгоритмы» — Адитьи Бхаргавы](https://lessgo.ru/obuchenie/otzyv-na-knigu-grokaem-algoritmy-aditi-bhargavy.html)
 - [Two Sum на Go: находим индексы двух чисел с заданной суммой](https://lessgo.ru/leetcode/two-sum-na-go-nahodim-indeksy-dvuh-chisel-s-zadannoj-summoj.html)
 <!-- BLOG-POST-LIST:END -->
+
+### Tech
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
