@@ -13,8 +13,8 @@ I spent 3.5 years building iOS apps: about 40 branded taxi apps from one codebas
 ### Latest posts (in Russian)
 
 <!-- BLOG-POST-LIST:START -->
-- [Типы данных в Go: полный обзор от int до rune](https://lessgo.ru/golang-go/tipy-dannyh-v-go-polnyj-obzor-ot-int-do-rune.html)
 - [Пет-проект на Go: делаю сокращатель ссылок в открытую](https://lessgo.ru/proekty/pet-proekt-na-go-delayu-sokrashhatel-ssylok-v-otkrytuyu.html)
+- [Типы данных в Go: полный обзор от int до rune](https://lessgo.ru/golang-go/tipy-dannyh-v-go-polnyj-obzor-ot-int-do-rune.html)
 - [Вывод в Go: полный гид по форматированному выводу](https://lessgo.ru/golang-go/vyvod-v-go-polnyj-gid-po-formatirovannomu-vyvodu.html)
 - [Отзыв на книгу «Грокаем алгоритмы» — Адитьи Бхаргавы](https://lessgo.ru/obuchenie/otzyv-na-knigu-grokaem-algoritmy-aditi-bhargavy.html)
 - [Two Sum на Go: находим индексы двух чисел с заданной суммой](https://lessgo.ru/leetcode/two-sum-na-go-nahodim-indeksy-dvuh-chisel-s-zadannoj-summoj.html)
